@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980782610342",
+    "project_id": "ksocialapp-f46b7",
+    "storage_bucket": "ksocialapp-f46b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980782610342:android:f5244a5f57aa09e238c167",
+        "android_client_info": {
+          "package_name": "com.example.ksocial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980782610342-3q3h77mflab3pn60626a6fq3a0erc3lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv2gcf98p8zF44u0y5QQd9bTsPIE1sC_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980782610342-3q3h77mflab3pn60626a6fq3a0erc3lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
